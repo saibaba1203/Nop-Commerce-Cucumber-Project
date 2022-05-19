@@ -1,0 +1,37 @@
+2022-05-19 21:05:97 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:89 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:622 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:421 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:202 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:224 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:716 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:839 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:639 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 21:05:453 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:28 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:93 INFO  HomePage :45 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (c14ef609dc66676091879758109ef991)] -> link text: Log in]
+2022-05-19 22:05:203 INFO  LoginPage :42 - Getting Welcome text  : [[ChromeDriver: chrome on WINDOWS (c14ef609dc66676091879758109ef991)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-19 22:05:920 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:687 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:850 INFO  HomePage :45 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b163b86a8632ac27c3a090dadaf06805)] -> link text: Log in]
+2022-05-19 22:05:86 INFO  LoginPage :52 - Entering Email: [[ChromeDriver: chrome on WINDOWS (b163b86a8632ac27c3a090dadaf06805)] -> id: Email]
+2022-05-19 22:05:232 INFO  LoginPage :57 - Entering Password: [[ChromeDriver: chrome on WINDOWS (b163b86a8632ac27c3a090dadaf06805)] -> name: Password]
+2022-05-19 22:05:978 INFO  LoginPage :62 - Clicking on login button: [[ChromeDriver: chrome on WINDOWS (b163b86a8632ac27c3a090dadaf06805)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-19 22:05:43 INFO  LoginPage :67 - Verifying Error message : [[ChromeDriver: chrome on WINDOWS (b163b86a8632ac27c3a090dadaf06805)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-19 22:05:146 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:710 INFO  HomePage :45 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3394afe858e9925f76530114a4f56d96)] -> link text: Log in]
+2022-05-19 22:05:890 INFO  LoginPage :52 - Entering Email: [[ChromeDriver: chrome on WINDOWS (3394afe858e9925f76530114a4f56d96)] -> id: Email]
+2022-05-19 22:05:28 INFO  LoginPage :57 - Entering Password: [[ChromeDriver: chrome on WINDOWS (3394afe858e9925f76530114a4f56d96)] -> name: Password]
+2022-05-19 22:05:739 INFO  LoginPage :62 - Clicking on login button: [[ChromeDriver: chrome on WINDOWS (3394afe858e9925f76530114a4f56d96)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-19 22:05:803 INFO  LoginPage :67 - Verifying Error message : [[ChromeDriver: chrome on WINDOWS (3394afe858e9925f76530114a4f56d96)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-19 22:05:769 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:686 INFO  HomePage :45 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (fc6413fadf4053935a6cd0c590c41c97)] -> link text: Log in]
+2022-05-19 22:05:939 INFO  LoginPage :52 - Entering Email: [[ChromeDriver: chrome on WINDOWS (fc6413fadf4053935a6cd0c590c41c97)] -> id: Email]
+2022-05-19 22:05:108 INFO  LoginPage :57 - Entering Password: [[ChromeDriver: chrome on WINDOWS (fc6413fadf4053935a6cd0c590c41c97)] -> name: Password]
+2022-05-19 22:05:830 INFO  LoginPage :62 - Clicking on login button: [[ChromeDriver: chrome on WINDOWS (fc6413fadf4053935a6cd0c590c41c97)] -> xpath: //button[contains(text(),'Log in')]]
+2022-05-19 22:05:896 INFO  LoginPage :67 - Verifying Error message : [[ChromeDriver: chrome on WINDOWS (fc6413fadf4053935a6cd0c590c41c97)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-19 22:05:104 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:15 INFO  HomePage :45 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d328f7be3b7c8ef0351e7495099d078f)] -> link text: Log in]
+2022-05-19 22:05:228 INFO  LoginPage :52 - Entering Email: [[ChromeDriver: chrome on WINDOWS (d328f7be3b7c8ef0351e7495099d078f)] -> id: Email]
+2022-05-19 22:05:399 INFO  LoginPage :57 - Entering Password: [[ChromeDriver: chrome on WINDOWS (d328f7be3b7c8ef0351e7495099d078f)] -> name: Password]
+2022-05-19 22:05:40 INFO  LoginPage :62 - Clicking on login button: [[ChromeDriver: chrome on WINDOWS (d328f7be3b7c8ef0351e7495099d078f)] -> xpath: //button[contains(text(),'Log in')]]
